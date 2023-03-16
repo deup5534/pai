@@ -1,0 +1,24 @@
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&display=swap');
+
+body{
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    background-image: url(https://ecrie.com.br/sistema/conteudos/imagem/g_55_12_5_19052021110819.jpg);
+}
+#bordas{
+    border-width: 25%;
+    border-style: solid;
+    border-color: aquamarine;
+}
+.cores{
+    background-color: whitesmoke;
+    color: black;
+    margin: 10%;
+}
+a.cores{
+    background-color: whitesmoke;
+    color: black;
+}
